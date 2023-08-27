@@ -1,9 +1,2 @@
-this is a.txt file
-
-edit 
-
-@#@!!@#!@#!@#!@#!@!@#
-
-
-aaaa
-tttttt
+11111
+22222
